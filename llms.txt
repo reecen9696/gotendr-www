@@ -28,8 +28,8 @@ Five services, all priced per tender, all against your own rates. Take one or ta
 We price commercial landscape tenders Australia-wide, from the drawings. These pages cover the regions we work in most.
 
 - [Where we price tenders](https://www.gotendr.com/locations/): Commercial landscape tender estimating, quantity takeoffs and priced bills of quantities, by region across Australia.
-- [Tender estimating in Melbourne](https://www.gotendr.com/locations/melbourne/): Commercial landscape tender estimating in Melbourne: quantity takeoffs, priced bills of quantities and submission-ready tenders, priced to your own rates.
-- [Tender estimating in Sydney](https://www.gotendr.com/locations/sydney/): Commercial landscape tender estimating for Sydney subcontractors: quantity takeoffs, priced bills of quantities and submission-ready tenders, to your rates.
+- [Landscape tender pricing in Melbourne](https://www.gotendr.com/locations/melbourne/): Landscape tenders in Melbourne, priced for you: quantity takeoffs, priced bills of quantities and submission-ready tenders, priced to your own rates.
+- [Landscape tender pricing in Sydney](https://www.gotendr.com/locations/sydney/): Landscape tenders in Sydney and NSW, priced for you: quantity takeoffs, priced bills of quantities and submission-ready tenders, priced to your own rates.
 - [Tender estimating in Brisbane](https://www.gotendr.com/locations/brisbane/): Commercial landscape tender estimating for Brisbane subcontractors: quantity takeoffs, priced bills of quantities and submission-ready tender packages.
 - [Tender estimating in Perth](https://www.gotendr.com/locations/perth/): Commercial landscape tender estimating for Perth subcontractors: quantity takeoffs, priced bills of quantities and submission-ready tenders, to your rates.
 - [Tender estimating in Adelaide](https://www.gotendr.com/locations/adelaide/): Commercial landscape tender estimating for Adelaide subcontractors: quantity takeoffs, priced bills of quantities and submission-ready tenders, to your rates.
@@ -65,6 +65,9 @@ Measuring scope off the drawings, structuring a BOQ, and the errors that cost th
 Reading a tender scope, putting a submission together, and improving your win rate.
 
 - [Tendering and bidding](https://www.gotendr.com/guides/tendering/)
+- [Where do you find landscape tenders in Sydney and NSW?](https://www.gotendr.com/guides/tendering/landscape-tenders-nsw/): Where to find landscape tenders in NSW and Sydney: buy.nsw, council portals, EstimateOne, aggregators and AusTender, plus how to set alerts and qualify them.
+- [Where do you find landscape tenders in Melbourne and Victoria?](https://www.gotendr.com/guides/tendering/landscape-tenders-victoria/): Where to find landscape tenders in Victoria and Melbourne: Buying for Victoria, council portals, EstimateOne and aggregators, and how to qualify and price them.
+- [Where do you find landscape tenders in Australia?](https://www.gotendr.com/guides/tendering/where-to-find-landscape-tenders/): Where to find landscape tenders in Australia: EstimateOne, tender aggregators, AusTender, state portals, council sites and builders, plus how to set alerts.
 - [What documents do you need to price a commercial landscape tender?](https://www.gotendr.com/guides/tendering/documents-needed-to-price-a-landscape-tender/): The exact documents an estimator needs to price a commercial landscape tender: scope, drawings, pricing schedule and conditions of contract.
 - [In-house vs outsourced tender estimating: which is right for your landscape business?](https://www.gotendr.com/guides/tendering/in-house-vs-outsourced-tender-estimating/): Should you keep landscape tender estimating in-house or outsource it? An honest comparison of cost, speed, control and bid volume to help you decide.
 - [Is a commercial landscape tender worth bidding?](https://www.gotendr.com/guides/tendering/is-a-landscape-tender-worth-bidding/): How to decide if a commercial landscape tender is worth bidding, before you spend days pricing it: scope clarity, competition, margin and fit.

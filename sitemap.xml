@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>https://www.gotendr.com/locations/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://www.gotendr.com/guides/tendering/</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -65,6 +65,18 @@
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/contracts/how-to-read-a-landscape-tender-scope/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/pricing/preliminaries-in-a-commercial-landscape-tender/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.gotendr.com/guides/takeoffs/common-landscape-takeoff-mistakes/</loc>
@@ -85,19 +97,25 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.gotendr.com/guides/contracts/how-to-read-a-landscape-tender-scope/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.gotendr.com/guides/pricing/preliminaries-in-a-commercial-landscape-tender/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.gotendr.com/guides/takeoffs/what-is-a-bill-of-quantities-in-landscaping/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/tendering/landscape-tenders-nsw/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/tendering/landscape-tenders-victoria/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/tendering/where-to-find-landscape-tenders/</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -170,7 +188,7 @@
   </url>
   <url>
     <loc>https://www.gotendr.com/locations/melbourne/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -182,7 +200,7 @@
   </url>
   <url>
     <loc>https://www.gotendr.com/locations/sydney/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
