@@ -40,6 +40,9 @@ We price commercial landscape tenders Australia-wide, from the drawings. These p
 How to build a price you can stand behind: rates, preliminaries, overhead, margin and contingency.
 
 - [Pricing commercial landscape work](https://www.gotendr.com/guides/pricing/)
+- [How do you price the landscape maintenance or establishment period in a tender?](https://www.gotendr.com/guides/pricing/how-to-price-landscape-maintenance-and-establishment/): How to price the landscape maintenance or establishment period in a commercial tender: reading the spec, per-visit build-up, plant losses and common traps.
+- [How do you add overhead and margin to a landscape tender?](https://www.gotendr.com/guides/pricing/how-to-price-overhead-and-margin-in-a-landscape-tender/): How to add overhead, margin and contingency to a landscape tender: markup vs margin, overhead recovery from your own books, and where each sits in the BOQ.
+- [How do you quote softscape vs hardscape in a commercial landscape tender?](https://www.gotendr.com/guides/pricing/how-to-quote-softscape-vs-hardscape/): How to quote softscape and hardscape separately in a commercial landscape tender: units, pricing drivers, trade breakdowns, risks and how to set out the BOQ.
 - [What preliminaries go into a commercial landscape tender?](https://www.gotendr.com/guides/pricing/preliminaries-in-a-commercial-landscape-tender/): What preliminaries go into a commercial landscape tender, time-related vs fixed prelims, how to price them from the programme, and the ones most often missed.
 - [How to price a commercial landscape tender](https://www.gotendr.com/guides/pricing/how-to-price-a-commercial-landscape-tender/): A step-by-step guide to pricing a commercial landscape tender in Victoria: takeoffs, rates, preliminaries, margin and the BOQ, from a working estimator.
 
@@ -48,6 +51,8 @@ How to build a price you can stand behind: rates, preliminaries, overhead, margi
 Measuring scope off the drawings, structuring a BOQ, and the errors that cost the most.
 
 - [Quantity takeoffs and bills of quantities](https://www.gotendr.com/guides/takeoffs/)
+- [How do you measure paving, edging and retaining walls in a landscape takeoff?](https://www.gotendr.com/guides/takeoffs/how-to-measure-paving-edging-and-retaining-walls/): How to measure paving, edging and retaining walls in a landscape takeoff: m2 by paving type, base layers, edging per metre, wall face area and footings.
+- [How do you take off a landscape plant schedule?](https://www.gotendr.com/guides/takeoffs/how-to-take-off-a-landscape-plant-schedule/): How to take off a landscape plant schedule: read the codes and pot sizes, count plants, measure mass planting by area x density, reconcile and price by size.
 - [What are the most common landscape takeoff mistakes?](https://www.gotendr.com/guides/takeoffs/common-landscape-takeoff-mistakes/): The landscape takeoff mistakes that lose winnable tenders or erode margin: scale, revisions, specs, schedules, details and addenda, with a QA checklist.
 - [How do you calculate topsoil, mulch and turf quantities for a landscape job?](https://www.gotendr.com/guides/takeoffs/how-to-calculate-topsoil-mulch-and-turf-quantities/): How to calculate topsoil, mulch and turf quantities for a commercial landscape job: area x depth, mm to metres, compaction, turf by area, and m3 to tonnes.
 - [How do you do a landscape quantity takeoff from drawings?](https://www.gotendr.com/guides/takeoffs/how-to-do-a-landscape-quantity-takeoff/): Step-by-step method for a commercial landscape takeoff: reading the drawings, measuring areas, lengths and counts, checking the spec and handing to pricing.
@@ -58,6 +63,8 @@ Measuring scope off the drawings, structuring a BOQ, and the errors that cost th
 Reading a tender scope, putting a submission together, and improving your win rate.
 
 - [Tendering and bidding](https://www.gotendr.com/guides/tendering/)
+- [How can a landscape subcontractor win more tenders?](https://www.gotendr.com/guides/tendering/how-to-improve-your-landscape-tender-win-rate/): How landscape subcontractors can win more tenders: track win rate properly, bid selectively, submit compliant prices, sharpen scope and learn from every loss.
+- [How do you write clarifications and exclusions for a landscape tender?](https://www.gotendr.com/guides/tendering/how-to-write-tender-clarifications-and-exclusions/): How to write inclusions, exclusions, clarifications and assumptions for a commercial landscape tender, with example wording and how head contractors read them.
 - [Where do you find landscape tenders in Sydney and NSW?](https://www.gotendr.com/guides/tendering/landscape-tenders-nsw/): Where to find landscape tenders in NSW and Sydney: buy.nsw, council portals, EstimateOne, aggregators and AusTender, plus how to set alerts and qualify them.
 - [Where do you find landscape tenders in Melbourne and Victoria?](https://www.gotendr.com/guides/tendering/landscape-tenders-victoria/): Where to find landscape tenders in Victoria and Melbourne: Buying for Victoria, council portals, EstimateOne and aggregators, and how to qualify and price them.
 - [Where do you find landscape tenders in Australia?](https://www.gotendr.com/guides/tendering/where-to-find-landscape-tenders/): Where to find landscape tenders in Australia: EstimateOne, tender aggregators, AusTender, state portals, council sites and builders, plus how to set alerts.
@@ -70,6 +77,7 @@ Reading a tender scope, putting a submission together, and improving your win ra
 Where scope gaps hide, what to check before signing, and how to price a variation so it gets paid.
 
 - [Scope, contracts and variations](https://www.gotendr.com/guides/variations/)
+- [How do you notify a variation on a landscape subcontract?](https://www.gotendr.com/guides/variations/how-to-notify-a-variation-on-a-landscape-subcontract/): How to notify a variation on a landscape subcontract: read the variation clause and time bars, get written direction, and send a notice with price and time.
 - [How to price a variation on a commercial landscape contract](https://www.gotendr.com/guides/variations/how-to-price-a-landscape-contract-variation/): How to price a variation on a commercial landscape contract so it gets approved and paid: notice, scope, rates, records and submission.
 
 ### Scope and contracts

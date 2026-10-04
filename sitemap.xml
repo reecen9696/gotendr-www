@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.gotendr.com/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://www.gotendr.com/guides/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -38,25 +38,25 @@
   </url>
   <url>
     <loc>https://www.gotendr.com/guides/pricing/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.gotendr.com/guides/takeoffs/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.gotendr.com/guides/tendering/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.gotendr.com/guides/variations/</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -65,6 +65,54 @@
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/tendering/how-to-improve-your-landscape-tender-win-rate/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/takeoffs/how-to-measure-paving-edging-and-retaining-walls/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/variations/how-to-notify-a-variation-on-a-landscape-subcontract/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/pricing/how-to-price-landscape-maintenance-and-establishment/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/pricing/how-to-price-overhead-and-margin-in-a-landscape-tender/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/pricing/how-to-quote-softscape-vs-hardscape/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/takeoffs/how-to-take-off-a-landscape-plant-schedule/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/tendering/how-to-write-tender-clarifications-and-exclusions/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.gotendr.com/guides/contracts/how-to-read-a-landscape-tender-scope/</loc>
