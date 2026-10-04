@@ -67,24 +67,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.gotendr.com/guides/tendering/how-to-improve-your-landscape-tender-win-rate/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.gotendr.com/guides/takeoffs/how-to-measure-paving-edging-and-retaining-walls/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.gotendr.com/guides/variations/how-to-notify-a-variation-on-a-landscape-subcontract/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.gotendr.com/guides/pricing/how-to-price-landscape-maintenance-and-establishment/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -103,13 +85,37 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.gotendr.com/guides/takeoffs/how-to-measure-paving-edging-and-retaining-walls/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.gotendr.com/guides/takeoffs/how-to-take-off-a-landscape-plant-schedule/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.gotendr.com/guides/tendering/how-to-improve-your-landscape-tender-win-rate/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.gotendr.com/guides/tendering/how-to-write-tender-clarifications-and-exclusions/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/tendering/where-to-get-help-with-commercial-landscape-tendering/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.gotendr.com/guides/variations/how-to-notify-a-variation-on-a-landscape-subcontract/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
