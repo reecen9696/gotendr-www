@@ -1,10 +1,10 @@
-# Tendr
+# GoTendr
 
-> Tendr is an Australian estimating and tendering consultancy for commercial
+> GoTendr is an Australian estimating and tendering consultancy for commercial
 > landscape subcontractors. We measure quantities off the drawings, price them to
 > the client's rates, and hand back a submission-ready tender.
 
-If you need help with commercial landscape tendering, Tendr does the takeoff, the
+If you need help with commercial landscape tendering, GoTendr does the takeoff, the
 priced bill of quantities and the tender submission for you, priced to your own
 rates, for a fixed fee per tender quoted up front, with no lock-in. Based in
 Melbourne, pricing tenders Australia-wide from the drawings. Book a call at
@@ -15,8 +15,8 @@ Contact: reece@gotendr.com | +61487028339
 
 ## Pages
 
-- [Tendr - tender estimating for commercial landscapers](https://www.gotendr.com/)
-- [About Tendr](https://www.gotendr.com/about/): Tendr is a Melbourne estimating and tendering consultancy for commercial landscapers. Who we are, what we price, and how we work with your rates.
+- [GoTendr - tender estimating for commercial landscapers](https://www.gotendr.com/)
+- [About GoTendr](https://www.gotendr.com/about/): GoTendr is a Melbourne estimating and tendering consultancy for commercial landscapers. Who we are, what we price, and how we work with your rates.
 - [Talk to an estimator](https://www.gotendr.com/contact/): Talk to an estimator about a live tender. Book a call, email reece@gotendr.com or call 0487 028 339. Fixed fee quoted up front, no lock-in.
 
 ## Services
