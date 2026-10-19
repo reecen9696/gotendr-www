@@ -1368,16 +1368,20 @@ section { scroll-margin-top: calc(var(--nav-height) + 16px); }
 .book-meta span { display: flex; align-items: center; gap: 8px; }
 .book-meta svg { color: var(--orange-500); }
 
-.book-widget {
-  margin: 48px auto 0;
-  max-width: 920px;
-  background: var(--white);
-  border-radius: 4px;
-  box-shadow: var(--shadow-2);
-  padding: 8px;
+.book-phone {
+  margin-top: 40px;
+  text-align: center;
 }
-@media (min-width: 768px) { .book-widget { padding: 16px; } }
-.book-widget iframe { width: 100%; height: 600px; border: 0; }
+.book-phone-number {
+  display: inline-block;
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 600;
+  color: var(--oat-light);
+  letter-spacing: -0.01em;
+}
+@media (min-width: 768px) { .book-phone-number { font-size: 56px; line-height: 64px; } }
+.book-phone-number:hover { color: var(--orange-500); }
 
 .book-alt {
   margin-top: 24px;
